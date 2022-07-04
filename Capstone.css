@@ -1,0 +1,40 @@
+#head{
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+}
+h1{
+	text-align: center;
+}
+.sign{
+	font-family: 'Cormorant Garamond', serif;
+}
+body{
+	background-color: #e0aaff;
+	border: 75px solid #40916c;
+	margin: auto;
+	border-top-width: 20px;
+	border-top: 20px solid #AC42C9;
+}
+#p1{
+	text-align: center;
+	padding-right: 450px;
+	padding-left: 450px;
+	padding-top: 75px;
+	font-family: 'Tajawal', sans-serif;
+}
+#p2{
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 450px;
+	padding-right: 450px;
+	font-family: 'Tajawal', sans-serif;
+}
+.button{
+	border-radius: 20px;
+	border-color: #e0aaff;
+	padding: 20px;
+	text-align: center;
+	font-family: 'ABeeZee', sans-serif;
+	font-family: 'Cormorant Garamond', serif;
+	background-color: #e9ff70;
+}
